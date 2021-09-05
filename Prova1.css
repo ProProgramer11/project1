@@ -1,0 +1,12 @@
+li {
+	color: red;
+}
+
+form {
+	border: solid 1px green;
+	padding: 20px;
+	margin: 20px;
+}
+h1,h2, h3 {
+	text-align: center;
+}
